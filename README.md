@@ -6,4 +6,3 @@
 - HTML
 - CSS
 - és a csapattagok feladatai!
-- 
