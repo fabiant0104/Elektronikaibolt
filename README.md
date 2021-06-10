@@ -1,3 +1,3 @@
 # Elektronikaibolt
 
-Ez az elektronikai boltunknak a githubos felülete
+## Ez az elektronikai boltunknak a githubos felülete
